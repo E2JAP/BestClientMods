@@ -4,6 +4,7 @@
 王道なクライアントモッドの日本語化テクスチャです。
 
 ### 各リンク
+- [利用規約](https://github.com/E2JAP/Rules)
 - [ダウンロードの仕方](https://github.com/NihoSta/HowToDownload)
 
 ### 現在の対応Mod
